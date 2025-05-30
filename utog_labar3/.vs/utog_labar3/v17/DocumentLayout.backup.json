@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\diseasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\diseaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\diseaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\diseasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\diseasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +58,77 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pok.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\pok.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs*",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\pok.cs*",
+              "ViewState": "AgIAALYAAAAAAAAAAAAYwDcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:16:13.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "pok.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\pok.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\pok.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:13:00.024Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiseaseAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:09:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DiseaseData.cs",
               "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseData.cs",
               "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\DiseaseData.cs",
               "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseData.cs",
               "RelativeToolTip": "utog_labar3\\Pokalo\\DiseaseData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T19:02:41.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DataLoader.cs",
               "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DataLoader.cs",
               "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\DataLoader.cs",
               "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DataLoader.cs",
               "RelativeToolTip": "utog_labar3\\Pokalo\\DataLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T18:58:49.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\Class1.cs",
               "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\Class1.cs",
               "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\Class1.cs",
               "RelativeToolTip": "utog_labar3\\Pokalo\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T18:52:09.412Z",
               "EditorCaption": ""

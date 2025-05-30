@@ -1,0 +1,242 @@
+[
+  {
+    "Year": 2008,
+    "DiseaseName": "Грипп",
+    "CasesCount": 120000
+  },
+  {
+    "Year": 2009,
+    "DiseaseName": "Грипп",
+    "CasesCount": 115000
+  },
+  {
+    "Year": 2010,
+    "DiseaseName": "Грипп",
+    "CasesCount": 105000
+  },
+  {
+    "Year": 2011,
+    "DiseaseName": "Грипп",
+    "CasesCount": 98000
+  },
+  {
+    "Year": 2012,
+    "DiseaseName": "Грипп",
+    "CasesCount": 92000
+  },
+  {
+    "Year": 2013,
+    "DiseaseName": "Грипп",
+    "CasesCount": 88000
+  },
+  {
+    "Year": 2014,
+    "DiseaseName": "Грипп",
+    "CasesCount": 85000
+  },
+  {
+    "Year": 2015,
+    "DiseaseName": "Грипп",
+    "CasesCount": 82000
+  },
+  {
+    "Year": 2016,
+    "DiseaseName": "Грипп",
+    "CasesCount": 78000
+  },
+  {
+    "Year": 2017,
+    "DiseaseName": "Грипп",
+    "CasesCount": 75000
+  },
+  {
+    "Year": 2018,
+    "DiseaseName": "Грипп",
+    "CasesCount": 72000
+  },
+  {
+    "Year": 2019,
+    "DiseaseName": "Грипп",
+    "CasesCount": 70000
+  },
+  {
+    "Year": 2020,
+    "DiseaseName": "Грипп",
+    "CasesCount": 65000
+  },
+  {
+    "Year": 2021,
+    "DiseaseName": "Грипп",
+    "CasesCount": 60000
+  },
+  {
+    "Year": 2022,
+    "DiseaseName": "Грипп",
+    "CasesCount": 58000
+  },
+  {
+    "Year": 2023,
+    "DiseaseName": "Грипп",
+    "CasesCount": 55000
+  },
+  {
+    "Year": 2008,
+    "DiseaseName": "Корь",
+    "CasesCount": 800
+  },
+  {
+    "Year": 2009,
+    "DiseaseName": "Корь",
+    "CasesCount": 750
+  },
+  {
+    "Year": 2010,
+    "DiseaseName": "Корь",
+    "CasesCount": 720
+  },
+  {
+    "Year": 2011,
+    "DiseaseName": "Корь",
+    "CasesCount": 710
+  },
+  {
+    "Year": 2012,
+    "DiseaseName": "Корь",
+    "CasesCount": 705
+  },
+  {
+    "Year": 2013,
+    "DiseaseName": "Корь",
+    "CasesCount": 680
+  },
+  {
+    "Year": 2014,
+    "DiseaseName": "Корь",
+    "CasesCount": 650
+  },
+  {
+    "Year": 2015,
+    "DiseaseName": "Корь",
+    "CasesCount": 620
+  },
+  {
+    "Year": 2016,
+    "DiseaseName": "Корь",
+    "CasesCount": 600
+  },
+  {
+    "Year": 2017,
+    "DiseaseName": "Корь",
+    "CasesCount": 580
+  },
+  {
+    "Year": 2018,
+    "DiseaseName": "Корь",
+    "CasesCount": 550
+  },
+  {
+    "Year": 2019,
+    "DiseaseName": "Корь",
+    "CasesCount": 520
+  },
+  {
+    "Year": 2020,
+    "DiseaseName": "Корь",
+    "CasesCount": 500
+  },
+  {
+    "Year": 2021,
+    "DiseaseName": "Корь",
+    "CasesCount": 480
+  },
+  {
+    "Year": 2022,
+    "DiseaseName": "Корь",
+    "CasesCount": 450
+  },
+  {
+    "Year": 2023,
+    "DiseaseName": "Корь",
+    "CasesCount": 420
+  },
+  {
+    "Year": 2008,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1500
+  },
+  {
+    "Year": 2009,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1450
+  },
+  {
+    "Year": 2010,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1400
+  },
+  {
+    "Year": 2011,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1350
+  },
+  {
+    "Year": 2012,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1300
+  },
+  {
+    "Year": 2013,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1250
+  },
+  {
+    "Year": 2014,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1200
+  },
+  {
+    "Year": 2015,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1150
+  },
+  {
+    "Year": 2016,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1100
+  },
+  {
+    "Year": 2017,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1050
+  },
+  {
+    "Year": 2018,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 1000
+  },
+  {
+    "Year": 2019,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 950
+  },
+  {
+    "Year": 2020,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 900
+  },
+  {
+    "Year": 2021,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 850
+  },
+  {
+    "Year": 2022,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 800
+  },
+  {
+    "Year": 2023,
+    "DiseaseName": "Туберкулез",
+    "CasesCount": 750
+  }
+]
