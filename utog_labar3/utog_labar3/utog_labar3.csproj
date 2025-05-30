@@ -56,6 +56,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lavreshin\Models\HousingPrice.cs" />
     <Compile Include="Lavreshin\lavr.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +81,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Lavreshin\lavr.resx">
+      <DependentUpon>lavr.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -89,11 +93,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Sodikov\sod.resx">
-      <DependentUpon>sod.cs</DependentUpon>
+    <EmbeddedResource Include="Sodikov'sod.resx">
+        <DependentUpon>sod.cs</DependentUpon>
     </EmbeddedResource>
+
+    <None Include="Lavreshin\Database\housing_prices.json" />
     <None Include="packages.config" />
-    <None Include="Properties\Settings.settings">
+    <None Include="Promenties\Settings_settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
