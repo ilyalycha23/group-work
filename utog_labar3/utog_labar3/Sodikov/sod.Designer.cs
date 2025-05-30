@@ -29,9 +29,9 @@ namespace utog_labar3.Sodikov
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.btnLoadData = new System.Windows.Forms.Button();
             this.btnAnalyze = new System.Windows.Forms.Button();
             this.comboBoxFirstParam = new System.Windows.Forms.ComboBox();
@@ -56,6 +56,7 @@ namespace utog_labar3.Sodikov
             this.btnLoadData.TabIndex = 0;
             this.btnLoadData.Text = "Загрузить данные";
             this.btnLoadData.UseVisualStyleBackColor = true;
+            this.btnLoadData.Click += new System.EventHandler(this.btnLoadData_Click);
             // 
             // btnAnalyze
             // 
@@ -65,6 +66,7 @@ namespace utog_labar3.Sodikov
             this.btnAnalyze.TabIndex = 1;
             this.btnAnalyze.Text = "Анализировать";
             this.btnAnalyze.UseVisualStyleBackColor = true;
+            this.btnAnalyze.Click += new System.EventHandler(this.btnAnalyze_Click);
             // 
             // comboBoxFirstParam
             // 
@@ -80,6 +82,7 @@ namespace utog_labar3.Sodikov
             this.comboBoxFirstParam.Name = "comboBoxFirstParam";
             this.comboBoxFirstParam.Size = new System.Drawing.Size(121, 21);
             this.comboBoxFirstParam.TabIndex = 2;
+            this.comboBoxFirstParam.SelectedIndexChanged += new System.EventHandler(this.comboBoxFirstParam_SelectedIndexChanged);
             // 
             // labelFirstParam
             // 
@@ -113,6 +116,7 @@ namespace utog_labar3.Sodikov
             this.comboBoxSecondParam.Name = "comboBoxSecondParam";
             this.comboBoxSecondParam.Size = new System.Drawing.Size(121, 21);
             this.comboBoxSecondParam.TabIndex = 4;
+            this.comboBoxSecondParam.SelectedIndexChanged += new System.EventHandler(this.comboBoxSecondParam_SelectedIndexChanged);
             // 
             // numericWindowSize
             // 
@@ -146,16 +150,16 @@ namespace utog_labar3.Sodikov
             // 
             // runningChart
             // 
-            chartArea3.Name = "ChartArea1";
-            this.runningChart.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.runningChart.Legends.Add(legend3);
+            chartArea4.Name = "ChartArea1";
+            this.runningChart.ChartAreas.Add(chartArea4);
+            legend4.Name = "Legend1";
+            this.runningChart.Legends.Add(legend4);
             this.runningChart.Location = new System.Drawing.Point(12, 262);
             this.runningChart.Name = "runningChart";
-            series3.ChartArea = "ChartArea1";
-            series3.Legend = "Legend1";
-            series3.Name = "Series1";
-            this.runningChart.Series.Add(series3);
+            series4.ChartArea = "ChartArea1";
+            series4.Legend = "Legend1";
+            series4.Name = "Series1";
+            this.runningChart.Series.Add(series4);
             this.runningChart.Size = new System.Drawing.Size(884, 401);
             this.runningChart.TabIndex = 9;
             this.runningChart.Text = "chart1";

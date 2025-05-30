@@ -8,3 +8,17 @@ C:\Users\ilyalycha\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.
 C:\Users\ilyalycha\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.csproj.CoreCompileInputs.cache
 C:\Users\ilyalycha\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.exe
 C:\Users\ilyalycha\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.pdb
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\bin\Debug\utog_labar3.exe.config
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\bin\Debug\utog_labar3.exe
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\bin\Debug\utog_labar3.pdb
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.csproj.AssemblyReference.cache
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.Form1.resources
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.Properties.Resources.resources
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.Sodikov.sod.resources
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.csproj.GenerateResource.cache
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.csproj.CoreCompileInputs.cache
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_lab.31E5F69D.Up2Date
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.exe
+C:\Users\maxmu\Desktop\labar3\utog_labar3\utog_labar3\obj\Debug\utog_labar3.pdb
