@@ -58,6 +58,7 @@
     <Compile Include="Lavreshin\lavr.Designer.cs">
       <DependentUpon>lavr.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pokalo\Class1.cs" />
     <Compile Include="Pokalo\pok.cs">
       <SubType>Form</SubType>
     </Compile>
