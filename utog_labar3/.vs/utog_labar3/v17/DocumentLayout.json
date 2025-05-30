@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maxmu\\Desktop\\labar3\\utog_labar3\\",
+  "WorkspaceRootPath": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\maxmu\\desktop\\labar3\\utog_labar3\\utog_labar3\\sodikov\\sod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -9,6 +9,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\maxmu\\desktop\\labar3\\utog_labar3\\utog_labar3\\sodikov\\sod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\sodikov\\sod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\diseaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\diseaseanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\pok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\diseasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\diseasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|c:\\users\\rostislav\\desktop\\labar3\\utog_labar3\\utog_labar3\\pokalo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D466EF-34D5-4A6C-B9E0-15C3241AA5E8}|utog_labar3\\utog_labar3.csproj|solutionrelative:utog_labar3\\pokalo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +80,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "sod.cs [Конструктор]",
               "DocumentMoniker": "C:\\Users\\maxmu\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Sodikov\\sod.cs",
               "RelativeDocumentMoniker": "utog_labar3\\Sodikov\\sod.cs",
-              "ToolTip": "C:\\Users\\maxmu\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Sodikov\\sod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "utog_labar3\\Sodikov\\sod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\maxmu\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Sodikov\\sod.cs [Конструктор]",
+              "RelativeToolTip": "utog_labar3\\Sodikov\\sod.cs [Конструктор]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T19:45:15.169Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "EditorCaption": " [Конструктор]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pok.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\pok.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\pok.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAArwCoBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:16:13.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pok.cs [Конструктор]",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\pok.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\pok.cs [Конструктор]",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\pok.cs [Конструктор]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:13:00.024Z",
+              "EditorCaption": " [Конструктор]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiseaseAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\DiseaseAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:09:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiseaseData.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseData.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\DiseaseData.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DiseaseData.cs",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\DiseaseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:02:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DataLoader.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\DataLoader.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\DataLoader.cs",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\DataLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:58:49.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\Class1.cs",
+              "RelativeDocumentMoniker": "utog_labar3\\Pokalo\\Class1.cs",
+              "ToolTip": "C:\\Users\\Rostislav\\Desktop\\labar3\\utog_labar3\\utog_labar3\\Pokalo\\Class1.cs",
+              "RelativeToolTip": "utog_labar3\\Pokalo\\Class1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:52:09.412Z",
+              "EditorCaption": ""
             }
           ]
         }

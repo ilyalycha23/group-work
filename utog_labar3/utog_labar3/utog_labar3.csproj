@@ -63,6 +63,10 @@
     <Compile Include="Lavreshin\lavr.Designer.cs">
       <DependentUpon>lavr.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pokalo\Class1.cs" />
+    <Compile Include="Pokalo\DataLoader.cs" />
+    <Compile Include="Pokalo\DiseaseAnalyzer.cs" />
+    <Compile Include="Pokalo\DiseaseData.cs" />
     <Compile Include="Pokalo\pok.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +88,9 @@
     <EmbeddedResource Include="Lavreshin\lavr.resx">
       <DependentUpon>lavr.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pokalo\pok.resx">
+      <DependentUpon>pok.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -93,13 +100,16 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Sodikov'sod.resx">
-        <DependentUpon>sod.cs</DependentUpon>
+    <EmbeddedResource Include="Sodikov\sod.resx">
+      <DependentUpon>sod.cs</DependentUpon>
     </EmbeddedResource>
 
     <None Include="Lavreshin\Database\housing_prices.json" />
     <None Include="packages.config" />
-    <None Include="Promenties\Settings_settings">
+    <None Include="Pokalo\diseases_data.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
