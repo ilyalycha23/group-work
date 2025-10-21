@@ -1,6 +1,5 @@
 # 📊 Лабораторная работа 3: Системы контроля версий (VCS)
 
-[![Unity](https://img.shields.io/badge/Engine-Unity-000000.svg?style=flat&logo=unity)](https://unity.com/)
 [![C#](https://img.shields.io/badge/Language-C%23-239120.svg?style=flat&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![GitHub](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/)
 
